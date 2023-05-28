@@ -1,16 +1,26 @@
-# learn_geo_location
+# Learn Geo-Location
 
-A new Flutter project.
+This app project was created while learning Geo Location in flutter framework
 
-## Getting Started
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/mohak1283)
 
-This project is a starting point for a Flutter application.
+## Show some :heart: and star the repo to support the project.
 
-A few resources to get you started if this is your first Flutter project:
+## Note
+This repository is still under development, and I will continue to add more features to it.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Get User's Latitude and Longitude 
+- Get User's Location In Human Readable Form
+
+## Tech Used
+**Client**: Flutter
+
+**Plugins**: Geolocation, Geocoding
+
+## Screenshots
+
+| Screen 1 | Screen 2 |
+| :---: | :---: |
+| <img src="https://github.com/singh3abhi/Learn-Geo-Location/blob/main/screenshots/1.png" alt="Screen 1" width="275"/> | <img src="https://github.com/singh3abhi/Learn-Geo-Location/blob/main/screenshots/2.png" width="275"/> |
